@@ -8,4 +8,3 @@ void loop() {
   Serial.println("Hello World!");
   delay(1000);
   Serial.println("ARREGLADO");
-}
